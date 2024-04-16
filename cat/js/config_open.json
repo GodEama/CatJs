@@ -26,14 +26,14 @@
         "name": "🟢 玩偶",
         "type": 3,
         "api": "./wogg_open.js",
-        "ext": "阿里token"
+        "ext": "3a0fb038122d439895feed61138fd490"
       },
       {
         "key": "玩偶表哥",
         "name": "🟢 表哥",
         "type": 3,
         "api": "./wobg_open.js",
-        "ext": "阿里token"
+        "ext": "3a0fb038122d439895feed61138fd490"
       },
       {
         "key": "耐看",
